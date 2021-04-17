@@ -3,8 +3,8 @@ __PGP Fingerprint: 87EE482FE0942D570EBCFD8B6EECA6DEF1CFFB33__
 
 When verifying the PGP key you will get WARNING.
 
-`gpg: WARNING: This key is not certified with a trusted signature!
-gpg:          There is no indication that the signature belongs to the owner.`
+``gpg: WARNING: This key is not certified with a trusted signature!
+gpg: There is no indication that the signature belongs to the owner.``
 
 
 This is because I have not linked the PGP key to my identity.
