@@ -10,3 +10,8 @@ gpg: There is no indication that the signature belongs to the owner.``
 This is because I have not linked the PGP key to my identity.
 I am not verified to be me, by anyone. 
 I belive the signature still is valid, as it verifies that I am the source of the information you get.
+
+
+RVN: RKZtiEFCrbpHu7FMyjx4Lgn9zw9BMx9xBv
+BTC: 3KtyBUjSvdoHn4SRhz8QYcwt1dmGb5xRnW
+
