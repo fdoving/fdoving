@@ -11,6 +11,8 @@ This is because I have not linked the PGP key to my identity.
 I am not verified to be me, by anyone. 
 I belive the signature still is valid, as it verifies that I am the source of the information you get.
 
+XMR: 46yaUztryvXXqo2DfZeECBXQKYMEHV1YpNwtkuwAvpMXMovWWJ6qDFVZj3DULj6AcxDemhDTDyJNFYBdGncBjpahQrY9rki
+
 DOGE: DK4dkby6ApmcC7quymXqKF4MoY21ogjyA4
 
 RVN: RKZtiEFCrbpHu7FMyjx4Lgn9zw9BMx9xBv
