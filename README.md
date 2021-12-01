@@ -1,4 +1,4 @@
-__PGP Fingerprint: 87EE482FE0942D570EBCFD8B6EECA6DEF1CFFB33__
+****PGP Fingerprint: 87EE482FE0942D570EBCFD8B6EECA6DEF1CFFB33****
 
 
 When verifying the PGP key you will get WARNING.
@@ -14,7 +14,7 @@ I belive the signature still is valid, as it verifies that I am the source of th
 
 
 
-**Donations to support my work will be much appreciated**
+***Donations to support my work will be much appreciated***
 
 Use the [github-sponsor](https://github.com/sponsors/fdoving) feature, or any of the coins listed here:
 
