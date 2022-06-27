@@ -26,6 +26,4 @@ DOGE: `DK4dkby6ApmcC7quymXqKF4MoY21ogjyA4`
 
 RVN: `RKZtiEFCrbpHu7FMyjx4Lgn9zw9BMx9xBv`
 
-AVN: `RCBvnY6GvkJwLVYFVQcemmPtqPYALS9wEt`
-
 
