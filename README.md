@@ -16,11 +16,8 @@ I belive the signature still is valid, as it verifies that I am the source of th
 
 ***Donations to support my work will be much appreciated***
 
-Use the [github-sponsor](https://github.com/sponsors/fdoving) feature, or any of the coins listed here:
 
 BTC: `bc1qtc97qu5jyxvur387s3wfsr08cw76rzx9490fwy`
-
-XMR: `46yaUztryvXXqo2DfZeECBXQKYMEHV1YpNwtkuwAvpMXMovWWJ6qDFVZj3DULj6AcxDemhDTDyJNFYBdGncBjpahQrY9rki`
 
 DOGE: `DK4dkby6ApmcC7quymXqKF4MoY21ogjyA4`
 
